@@ -1,6 +1,7 @@
 results/
 with_tensorflow/
-translatorModel3/
+#translatorModel3/
+*.bin
 
 
 # Byte-compiled / optimized / DLL files
